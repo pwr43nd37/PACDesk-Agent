@@ -7,8 +7,8 @@ PACDesk-Agent is a lightweight and robust agent designed for the PACDesk system,
 To install PACDesk-Agent, execute the following commands directly in your Linux terminal:
 
 ```bash
-curl -LO https://github.com/pwr43nd37/PACDesk-Agent/releases/download/v1.1/pacdesk-agent-v1.1.tar.gz
-tar -xzf pacdesk-agent-v1.1.tar.gz
+curl -LO https://github.com/pwr43nd37/PACDesk-Agent/releases/download/v1.2/pacdesk-agent-v1.2.tar.gz
+tar -xzf pacdesk-agent-v1.2.tar.gz
 cd PACDesk-Agent/
 bash install.sh
 ```
